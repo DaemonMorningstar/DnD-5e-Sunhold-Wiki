@@ -6,6 +6,7 @@ tags:
   - Documentation
 ---
  Welcome! Welcome! Welcome! 
+ first things first, here's the [[content/Readme|Readme]], you'll want to look at that.
  this is the wonderful [[Kingdom of Sunhold]]!
  there are many wonderful towns and cities within not only this kingdom, but the entirety of this world. Now, you, you're something special. Yes yes, i see great potential in you. potential for what you ask? well that's up to you. Now now, lets go explore this wonderful world together. I can not wait to see what you and your group get into!
 
