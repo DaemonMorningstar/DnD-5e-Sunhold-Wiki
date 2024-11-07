@@ -1,0 +1,1 @@
+The king of the kingdom knows all too well how important identity is to his people. king gizzard personally knew the hatred some people had for other species. the hardships he faced as a young lizard-folk are what pushed him to get to where he is, so that no other young child would have to go through what he did.

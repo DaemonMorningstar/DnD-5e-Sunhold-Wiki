@@ -1,5 +1,5 @@
 ---
-title: Introductions
+title: Introduction
 draft: false
 tags:
   - introduction
