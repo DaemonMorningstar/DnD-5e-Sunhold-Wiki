@@ -1,18 +1,9 @@
-# Quartz v4
+# DnD-5e Sunhold campaign
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+this is just a page for my DnD 5e campaign wiki using [obsidian.md](https://obsidian.md/) and [quartz](https://quartz.jzhao.xyz/)
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+if you're not part of the campaign you can pretty much ignore this repo. but if you want to take any of my content from the campaign and use it for your own feel free to do so.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+[link to the wiki](https://daemonmorningstar.github.io/DnD-5e-Sunhold-Wiki/)
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
